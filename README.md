@@ -1,6 +1,3 @@
-
-[Click here to try it out](https://wwwsamina.github.io/IslamicQuizes/)
-
 🕌 Islamic Quiz Challenge
 Welcome to the Islamic Quiz Challenge — a fun and educational game to test your knowledge of Islam across three levels:
 
